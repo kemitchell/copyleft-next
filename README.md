@@ -7,7 +7,7 @@ copyleft-next is a new, post-post-modern, non-weak copyleft license
 inspired by, though different from, the GNU GPL.
 
 Contributions of patches, ideas, and criticism are welcome (see the file
-CONTRIBUTING.md for more information).  In particular, the Copyleft-Next
+CONTRIBUTING.md for more information). In particular, the Copyleft-Next
 Project actively seeks the participation of open source/free software
 project developers who may not have considered helping with license
 drafting before. License drafting is fundamentally about establishing
@@ -27,4 +27,3 @@ All communications with journalists shall be handled by the Copyleft-Next
 Marketing Committee, which does not exist yet and probably won't exist for
 at least another year or three. For the avoidance of doubt, Simon Phipps
 and Martin Michlmayr are not considered journalists.
-

@@ -9,20 +9,14 @@ participants, regardless of their views on copyleft, and regardless of
 their opinions on existing licenses such as the GNU GPLv2 and its
 successors, are especially welcome and strongly encouraged.
 
-Patches or merge requests relating to a given license text should be
-made against the relevant file in the Drafts/ directory, **not** a
-numbered version in the Releases/ directory. The files in Releases/
-are meant to be immutable. (Any suggestion for a better approach than
-this Drafts vs. Releases system would be greatly welcome.)
+How to Make Changes
+===================
+
+Please make proposed changes directly to `./copyleft-next` and send
+a pull request via <https://github.com/copyleft-next/copyleft-next>.
 
 Development and discussion of copyleft-next by participants in the
 Copyleft-Next Project are governed by the [Harvey Birdman Rule].
-
-Public Source Locations
-=======================
-
-<https://github.com/copyleft-next/copyleft-next> is now the centralized
-location of source for this project.
 
 Mailing List
 ============
