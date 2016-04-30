@@ -11,7 +11,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
       of, publicly perform and publicly display My Work.
 
    b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      patent license under Licensed Patents to make, have made, use, sell,
+      patent license under Necessary Patents to make, have made, use, sell,
       offer for sale, and import Covered Works.
 
    This License does not grant any rights in My name, trademarks, service
@@ -73,11 +73,12 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
 6. Symmetrical Licensing Condition for Upstream Contributions
 
-   If You Distribute a work to Me specifically for inclusion in or
-   modification of a Covered Work (a "Patch"), and no explicit licensing
-   terms apply to the Patch, You license the Patch under this License, to
-   the extent of Your copyright in the Patch. This condition does not
-   negate the other conditions of this License, if applicable to the Patch.
+   If You Distribute a work to Me specifically for inclusion in
+   or modification of a Covered Work (a "Patch"), and no explicit
+   licensing terms apply to the Patch, You license the Patch under
+   this License, to the extent of Your Work in the Patch and Necessary
+   Patents. This condition does not negate the other conditions of
+   this License, if applicable to the Patch.
 
 7. Nullification of Copyleft/Proprietary Dual Licensing
 
@@ -166,7 +167,7 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     Covered Work (for example, a specified proprietary compiler including
     its version number). Corresponding Source must be machine-readable.
 
-    "Covered Work" means My Work or a Derived Work.
+    "Covered Work" means Work or Derived Work.
 
     "Derived Work" means a work of authorship that copies from, modifies,
     adapts, is based on, is a derivative work of, transforms, translates or
@@ -195,16 +196,14 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
     otherwise, or (b) ownership of more than fifty percent of the
     outstanding shares or beneficial ownership of such legal entity.
 
-    "Licensed Patents" means all patent claims licensable royalty-free by
-    Me, now or in the future, that are necessarily infringed by making,
-    using, or selling My Work, and excludes claims that would be infringed
-    only as a consequence of further modification of My Work.
-
     "Mere Aggregation" means an aggregation of a Covered Work with a
     Separate Work.
 
-    "My Work" means the particular work of authorship I license to You
-    under this License.
+    "Necessary Patents" means all patent claims licensable
+    royalty-free, now or in the future, that are necessarily infringed
+    by making, using, or selling Work, and excludes claims that would
+    be infringed only as a consequence of further modification of
+    the Work.
 
     "Object Code" means any form of a work that is not Source Code.
 
@@ -219,3 +218,5 @@ THIS IS A DRAFT. DO NOT USE AS A LICENSE.
 
     "Source Code" means the preferred form of a work for making
     modifications to it.
+
+    "Work" means work of authorship licensed under this License.
