@@ -14,8 +14,8 @@ drafting before. License drafting is fundamentally about establishing
 policies for projects, and therefore input from developers is typically
 more valuable than input from lawyers.
 
-Numbered releases of copyleft-next are stored in the Releases directory. A
-draft of copyleft-next is maintained in the Drafts directory.
+Numbered releases of copyleft-next are available at
+<https://github.com/copyleft-next/copyleft-next/releases>.
 
 **The Copyleft-Next Project is *not* an effort endorsed by the Free
 Software Foundation or the GNU Project. It is is also *not* an effort

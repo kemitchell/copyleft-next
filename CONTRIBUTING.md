@@ -12,8 +12,9 @@ successors, are especially welcome and strongly encouraged.
 How to Make Changes
 ===================
 
-Please make proposed changes directly to `./copyleft-next` and send
-a pull request via <https://github.com/copyleft-next/copyleft-next>.
+Please fork the Git repository from
+<https://github.com/copyleft-next/copyleft-next> and submit your
+changes as pull requests via GitHub.
 
 Development and discussion of copyleft-next by participants in the
 Copyleft-Next Project are governed by the [Harvey Birdman Rule].
